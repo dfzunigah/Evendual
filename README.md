@@ -18,6 +18,7 @@ This project was part of the first version of 'Taller Bogotá TBOG', a initiativ
 
 ## On the news
 
+- [Evendual, iniciativa de estudiantes UN para descongestionar Transmilenio en eventos masivos](http://ieu.unal.edu.co/noticias-del-ieu/item/evendual-iniciativa-de-estudiantes-un-para-descongestionar-transmilenio-en-eventos-masivos)
 - [Concluyó el Taller Bogotá con seis propuesta para la ciudad](http://ieu.unal.edu.co/noticias-del-ieu/item/concluyo-el-taller-bogota-con-seis-propuestas-para-la-ciudad)
 - [Propuestas de espacio público y movilidad fueron presentadas en el Taller Bogotá](http://ieu.unal.edu.co/noticias-del-ieu/item/propuestas-de-espacio-publico-y-movilidad-fueron-presentadas-en-el-taller-bogota)
 - [Estudiantes de Taller Bogotá presentan primeras alternativas e solución a los retos de la ciudad](http://ieu.unal.edu.co/noticias-del-ieu/item/estudiantes-de-taller-bogota-presentan-primeras-alternativas-de-solucion-a-los-retos-de-la-cidudad)
