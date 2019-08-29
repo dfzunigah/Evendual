@@ -18,6 +18,7 @@ This project was part of the first version of 'Taller Bogotá TBOG', a initiativ
 
 ## On the news
 
+- [[Radio 📻] Taller Bogotá: soluciones concretas a los problemas de la ciudad](http://unradio.unal.edu.co/nc/detalle/cat/observatorio-de-gobierno-urbano/article/taller-bogota-soluciones-concretas-a-los-problemas-de-la-ciudad.html)
 - [Evendual, iniciativa de estudiantes UN para descongestionar Transmilenio en eventos masivos](http://ieu.unal.edu.co/noticias-del-ieu/item/evendual-iniciativa-de-estudiantes-un-para-descongestionar-transmilenio-en-eventos-masivos)
 - [Concluyó el Taller Bogotá con seis propuesta para la ciudad](http://ieu.unal.edu.co/noticias-del-ieu/item/concluyo-el-taller-bogota-con-seis-propuestas-para-la-ciudad)
 - [Propuestas de espacio público y movilidad fueron presentadas en el Taller Bogotá](http://ieu.unal.edu.co/noticias-del-ieu/item/propuestas-de-espacio-publico-y-movilidad-fueron-presentadas-en-el-taller-bogota)
