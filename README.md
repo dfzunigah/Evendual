@@ -1,3 +1,7 @@
+<!-- icons -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
 <p align="center">
 <img src="readme-resources/Logo.png" alt="Evendual logo">
 </p>
@@ -8,13 +12,15 @@
 
 # ✍️ About 
 
-**Evendual, is a temporary (in spanish 'Eventual') public transport system to reduce the saturation in the TransMilenio stations to the exit of massive events in the city of Bogota.**
+**Evendual, is a temporary (in spanish 'Eventual') public transport system to reduce the saturation in the TransMilenio stations to the exit of massive events in the city of Bogotá.**
 
 Please visit the [executive summary](https://github.com/dfzunigah/Evendual/blob/master/Executive%20summary%20%5BES%5D.pdf) and [the proposal](https://github.com/dfzunigah/Evendual/blob/master/EVENDUAL.pdf) to learn more. Also, you can see a demo we did in the [demo folder](https://github.com/dfzunigah/Evendual/tree/master/demo).
 
 ⚠️Warning: GitHub may not display pdf files correctly. Download them for a better experience.⚠️
 
 This project was part of the first version of 'Taller Bogotá TBOG', a initiative by the Universidad Nacional de Colombia to get undergraduate students closer to real world problems in the context of the 4.0 industrial revolution.
+
+For more about 'Taller Bogotá TBOG', follow the Instituto de Estudios Urbanos (Urban Studies Institute) on [![@ieu_un][1.1]][https://twitter.com/ieu_un]
 
 ## On the news
 
