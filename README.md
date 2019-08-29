@@ -1,6 +1,7 @@
 <!-- icons -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1]: https://twitter.com/ieu_un
 
 <p align="center">
 <img src="readme-resources/Logo.png" alt="Evendual logo">
@@ -20,7 +21,7 @@ Please visit the [executive summary](https://github.com/dfzunigah/Evendual/blob/
 
 This project was part of the first version of 'Taller Bogotá TBOG', a initiative by the Universidad Nacional de Colombia to get undergraduate students closer to real world problems in the context of the 4.0 industrial revolution.
 
-For more about 'Taller Bogotá TBOG', follow the Instituto de Estudios Urbanos (Urban Studies Institute) on [![@ieu_un][1.1]][https://twitter.com/ieu_un]
+For more about 'Taller Bogotá TBOG', follow the Instituto de Estudios Urbanos (Urban Studies Institute) on [![@ieu_un][1.1]][1]
 
 ## On the news
 
